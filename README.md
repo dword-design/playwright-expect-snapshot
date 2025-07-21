@@ -50,7 +50,7 @@
 <!-- /BADGES -->
 
 <!-- DESCRIPTION/ -->
-
+A toMatchSnapshot replacement for Playwright that supports objects by sorting object keys and stringifying it.
 <!-- /DESCRIPTION -->
 
 <!-- INSTALL/ -->
