@@ -5,6 +5,7 @@
   "funding": "https://github.com/sponsors/dword-design",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
+  "description": "A toMatchSnapshot replacement for Playwright that supports objects by sorting object keys and stringifying it.",
   "type": "module",
   "exports": {
     ".": {
