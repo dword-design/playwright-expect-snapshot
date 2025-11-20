@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/dword-design/playwright-expect-snapshot/compare/v1.0.2...v1.0.3) (2025-11-20)
+
+
+### Bug Fixes
+
+* update pnpm to v10.22.0 ([#1](https://github.com/dword-design/playwright-expect-snapshot/issues/1)) ([ab35d9a](https://github.com/dword-design/playwright-expect-snapshot/commit/ab35d9a45a8c2e882a0b16b19e2e5cf7e4c42bbb))
+
 ## [1.0.2](https://github.com/dword-design/playwright-expect-snapshot/compare/v1.0.1...v1.0.2) (2025-11-20)
 
 
