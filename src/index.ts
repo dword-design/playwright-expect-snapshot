@@ -8,7 +8,7 @@ export const expect = base.extend({
   ) => {
     if (typeof received !== 'string') {
       received = sortKeys(received, { deep: true });
-      received = JSON.stringify(received, undefined, 2);
+      received = `${JSON.stringify(received, undefined, 2)}\n`;
     }
 
     try {
