@@ -15,7 +15,10 @@ export const expect = base.extend({
       await base(received).toMatchSnapshot(...args);
       return { message: () => 'Snapshot matched', pass: true };
     } catch (error) {
-      return { message: () => error.message, pass: false };
+      return {
+        message: () => (error instanceof Error ? error.message : String(error)),
+        pass: false,
+      };
     }
   },
 });
