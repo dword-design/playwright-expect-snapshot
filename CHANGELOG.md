@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/dword-design/playwright-expect-snapshot/compare/v1.0.0...v1.0.1) (2025-11-20)
+
+
+### Bug Fixes
+
+* add trailing newline ([3bcae9a](https://github.com/dword-design/playwright-expect-snapshot/commit/3bcae9a3be5975013aac8c9365e6ccae9efd1cd4))
+
 # 1.0.0 (2025-07-21)
 
 
