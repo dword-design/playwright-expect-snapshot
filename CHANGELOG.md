@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/dword-design/playwright-expect-snapshot/compare/v1.0.3...v1.0.4) (2025-11-20)
+
+
+### Bug Fixes
+
+* doc ([24102e8](https://github.com/dword-design/playwright-expect-snapshot/commit/24102e89bc36c966f1713317d2727f870b47fc97))
+
 ## [1.0.3](https://github.com/dword-design/playwright-expect-snapshot/compare/v1.0.2...v1.0.3) (2025-11-20)
 
 

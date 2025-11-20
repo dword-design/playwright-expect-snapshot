@@ -1,6 +1,6 @@
 {
   "name": "playwright-expect-snapshot",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A toMatchSnapshot replacement for Playwright that supports objects by sorting object keys and stringifying it.",
   "repository": "dword-design/playwright-expect-snapshot",
   "funding": "https://github.com/sponsors/dword-design",
