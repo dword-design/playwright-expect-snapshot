@@ -74,6 +74,14 @@ import { expect } from 'playwright-expect-snapshot';
 test('works', () => expect({ foo: 'bar', bar: 'baz' }).toMatchSnapshot());
 ```
 
+## Behavior
+
+It will sort keys of an object, convert it to a JSON string and add a trailing newline for better IDE support. The behavior is similar to [expect-mocha-snapshot](https://github.com/blogfoster/expect-mocha-snapshot).
+
+## Open questions
+
+- [Should also non-object values be converted to JSON?](https://github.com/dword-design/playwright-expect-snapshot/issues/4)
+
 <!-- LICENSE/ -->
 ## Contribute
 
