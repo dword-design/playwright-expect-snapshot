@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/dword-design/playwright-expect-snapshot/compare/v1.0.1...v1.0.2) (2025-11-20)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#3](https://github.com/dword-design/playwright-expect-snapshot/issues/3)) ([ca44ce3](https://github.com/dword-design/playwright-expect-snapshot/commit/ca44ce388b9b364dd2a83da8d15aad2de8340c10))
+
 ## [1.0.1](https://github.com/dword-design/playwright-expect-snapshot/compare/v1.0.0...v1.0.1) (2025-11-20)
 
 
