@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/dword-design/playwright-expect-snapshot/compare/v1.0.4...v2.0.0) (2025-12-15)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/base to v16 ([#6](https://github.com/dword-design/playwright-expect-snapshot/issues/6)) ([51cc931](https://github.com/dword-design/playwright-expect-snapshot/commit/51cc931004778be85b6ce59b9e51d2367a00babe))
+
+
+### BREAKING CHANGES
+
+* node >= 22
+
 ## [1.0.4](https://github.com/dword-design/playwright-expect-snapshot/compare/v1.0.3...v1.0.4) (2025-11-20)
 
 
