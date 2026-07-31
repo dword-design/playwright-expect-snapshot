@@ -2,7 +2,7 @@ import { expect as base } from '@playwright/test';
 import sortKeys from 'sort-keys';
 
 export const expect = base.extend({
-  toMatchSnapshot: async (
+  toMatchSnapshot: (
     received: Record<string, unknown> | string | unknown[],
     ...args
   ) => {
@@ -12,7 +12,7 @@ export const expect = base.extend({
     }
 
     try {
-      await base(received).toMatchSnapshot(...args);
+      base(received).toMatchSnapshot(...args);
       return { message: () => 'Snapshot matched', pass: true };
     } catch (error) {
       return {
