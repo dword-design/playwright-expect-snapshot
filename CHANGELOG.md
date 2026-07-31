@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/dword-design/playwright-expect-snapshot/compare/v2.0.0...v2.0.1) (2026-07-31)
+
+
+### Bug Fixes
+
+* remove async ([5b368bb](https://github.com/dword-design/playwright-expect-snapshot/commit/5b368bb3c323a17cb1007680c83df0ae793bcb2f))
+
 # [2.0.0](https://github.com/dword-design/playwright-expect-snapshot/compare/v1.0.4...v2.0.0) (2025-12-15)
 
 
